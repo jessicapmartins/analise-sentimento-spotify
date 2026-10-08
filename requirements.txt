@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+wordcloud
+ydata-profiling
+spacy
+nltk
+emoji
+pandarallel
+scikit-learn
+tensorflow
+keras-visualizer

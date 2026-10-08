@@ -1,0 +1,1 @@
+Baixe o arquivo reviews.csv em https://www.kaggle.com/datasets/mfaaris/spotify-app-reviews-2022 e salve nesta pasta.
